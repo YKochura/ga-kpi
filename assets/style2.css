@@ -509,6 +509,11 @@ td {
     padding: 10px;
 }
 
+.shadow-w {
+    background-color: rgba(197, 242, 243, 0.9);
+    padding: 10px;
+}
+
 .gray-t {
     color: #dcdedf;
 }
